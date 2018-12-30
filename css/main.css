@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0f05db;
+  background: #f45b65;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3006,7 +3006,7 @@ pre .javascript .function {
   color: #fff;
 }
 body {
-  background: url("http://desk.zol.com.cn/showpic/1680x1050_45327_14.html");
+  background: url("/uploads/summer.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
